@@ -39,3 +39,9 @@
 610	617	1728786870948237622	CMakeFiles/libtest.dir/main.cpp.o.modmap	fc5bee39d347e120
 617	6339	1728786870955237710	CMakeFiles/libtest.dir/main.cpp.o	35503a0681961779
 6339	6468	1728786876677310273	libtest	5650d7bf4e984553
+79	922	1728787638123952941	CMakeFiles/libtest.dir/main.cpp.o.ddi	8e8b4fa1ad1c9ebf
+922	928	1728787638965963587	CMakeFiles/libtest.dir/CXX.dd	fc5bee39d347e120
+922	928	1728787638965963587	/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/libtest.dir/CXXModules.json	fc5bee39d347e120
+922	928	1728787638965963587	CMakeFiles/libtest.dir/main.cpp.o.modmap	fc5bee39d347e120
+929	8008	1728787638972963676	CMakeFiles/libtest.dir/main.cpp.o	35503a0681961779
+8008	8174	1728787646052053178	libtest	5650d7bf4e984553

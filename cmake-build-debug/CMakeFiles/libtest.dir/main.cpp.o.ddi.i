@@ -147026,7 +147026,7 @@ int main() {
         if (utilInput.getIsKeyDown(256)) {
             glfwSetWindowShouldClose(MyWindow::getWindowData().window, true);
         }
-
+        std::println("GIT");
         MyWindow::pollEvents();
         MyWindow::swapBuffers();
     }

@@ -107,7 +107,7 @@ int main() {
         if (utilInput.getIsKeyDown(GLFW_KEY_ESCAPE)) {
             glfwSetWindowShouldClose(MyWindow::getWindowData().window, true);
         }
-
+        std::println("GIT");
         MyWindow::pollEvents();
         MyWindow::swapBuffers();
     }
