@@ -1,0 +1,17 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/untitled1.dir/EntityFactory.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/ComponentManager.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/MyWindow.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/World.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/Buffers.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/Input.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/MovementSystem.cpp.o: dyndep
+
+build CMakeFiles/untitled1.dir/Components.cpp.o: dyndep
+

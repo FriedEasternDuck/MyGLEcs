@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug",
+	"dir-cur-src" : "/home/rooster/CLionProjects/MyGLEcs",
+	"dir-top-bld" : "/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug",
+	"dir-top-src" : "/home/rooster/CLionProjects/MyGLEcs",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/rooster/.vcpkg-clion/vcpkg (1)/installed/x64-linux/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/untitled1.dir"
+}

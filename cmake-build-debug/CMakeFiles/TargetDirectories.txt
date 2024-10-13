@@ -1,0 +1,4 @@
+/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/libtest.dir
+/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rooster/CLionProjects/MyGLEcs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
